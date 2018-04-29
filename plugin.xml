@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="cordova-plugin-mas-connecta"
+           id="cordova-plugin-mas-cli-connecta"
       version="0.1.0">
     <name>MASConnecta</name>
     <description>Cordova MAS Connecta Plugin</description>
@@ -46,6 +46,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <header-file src="src/ios/MASPluginMQTTMessage.h" />
         <source-file src="src/ios/MASPluginMQTTMessage.m" />
 
+        <framework src="MASConnecta" type="podspec" spec="~> 1.6.10" />
     </platform>
 
     <!-- Android -->

@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-mas-connecta",
+  "name": "cordova-plugin-mas-cli-connecta",
   "version": "1.6.0",
   "description": "Cordova MAS Connecta Plugin",
   "cordova": {
-    "id": "cordova-plugin-mas-connecta",
+    "id": "cordova-plugin-mas-cli-connecta",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CAAPIM/MAS-Connecta-Cordova.git"
+    "url": "git+https://github.com/ysd24/Cordova-MAS-CLI-Connecta.git"
   },
   "keywords": [
     "cordova",
@@ -24,7 +24,7 @@
   "author": "CA Technologies Ltd.",
   "license": "CA Technologies Ltd.",
   "bugs": {
-    "url": "https://github.com/CAAPIM/MAS-Connecta-Cordova/issues"
+    "url": "https://github.com/ysd24/Cordova-MAS-CLI-Connecta/issues"
   },
-  "homepage": "https://github.com/CAAPIM/MAS-Connecta-Cordova#readme"
+  "homepage": "https://github.com/ysd24/Cordova-MAS-CLI-Connecta#readme"
 }
