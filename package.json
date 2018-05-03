@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-mas-cli-connecta",
-  "version": "1.6.0",
+  "version": "1.6.10",
   "description": "Cordova MAS Connecta Plugin",
   "cordova": {
     "id": "cordova-plugin-mas-cli-connecta",
@@ -15,7 +15,7 @@
   },
   "keywords": [
     "cordova",
-    "MASConnecta",
+    "cordova-plugin-mas-cli-connecta",
     "CA Technologies",
     "ecosystem:cordova",
     "cordova-ios",

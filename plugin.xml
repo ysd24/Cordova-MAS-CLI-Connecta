@@ -3,8 +3,8 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="cordova-plugin-mas-cli-connecta"
-      version="0.1.0">
-    <name>MASConnecta</name>
+      version="0.16.10">
+    <name>cordova-plugin-mas-cli-connecta</name>
     <description>Cordova MAS Connecta Plugin</description>
     <license>CA Technologies Ltd.</license>
     <keywords>cordova, MASConnecta, CA Technologies</keywords>
@@ -31,7 +31,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <clobbers target="MASPluginMQTTMessage" />
     </js-module>
    
-    <dependency id="cordova-plugin-mas-core" url="https://github.com/CAAPIM/Cordova-MAS-Foundation.git" commit="develop" />
+    <dependency id="cordova-plugin-mas-cli-core" url="https://github.com/ysd24/Cordova-MAS-CLI-Foundation.git" commit="master" />
     
     <!-- iOS -->
     <platform name="ios" >
